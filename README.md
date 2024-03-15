@@ -13,6 +13,9 @@ https://carlosriverag.dev/
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+
 #### Insignias Alura
-![cms_files_10224_1671211831Prancheta_8](https://user-images.githubusercontent.com/49885608/220218016-d98589a4-b282-40a7-b7e9-a22b354a5cd5.png)
-![cms_files_10224_1677508436Prancheta_1](https://user-images.githubusercontent.com/49885608/230796738-f7327c02-2959-492d-a31d-314ff0bfe651.png)
+<div style="">
+  <img src="https://user-images.githubusercontent.com/49885608/220218016-d98589a4-b282-40a7-b7e9-a22b354a5cd5.png" style="width:200px; height: 200px" />
+  <img src="https://user-images.githubusercontent.com/49885608/230796738-f7327c02-2959-492d-a31d-314ff0bfe651.png" style="width:200px; height: 200px" />
+</div>
