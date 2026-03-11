@@ -6,7 +6,7 @@
 
 🚀 Enfocado en el ecosistema JavaScript con experiencia en desarrollo frontend y backend, integración de APIs y arquitectura de aplicaciones.
 
-🌐 Portfolio: https://carlosriverag.dev/
+🌐 Portfolio: https://carlosriverag.com/
 
 ---
 
