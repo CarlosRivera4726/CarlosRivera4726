@@ -63,7 +63,7 @@ Responsabilidades y logros:
 # 📫 Contacto
 
 📧 Email: carlosrivera_-717@hotmail.com  
-🌐 Portfolio: https://carlosriverag.dev/
+🌐 Portfolio/CV: https://carlosriverag.com/
 
 ---
 
